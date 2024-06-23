@@ -1,0 +1,1465 @@
+{
+    "games": [
+        {
+            "title": "Dark Souls I",
+            "bosses": [
+                {
+                    "name": "Asylum Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Taurus Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Bell Gargoyles",
+                    "killed": false
+                },
+                {
+                    "name": "Moonlight Butterfly",
+                    "killed": false
+                },
+                {
+                    "name": "Capra Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Gaping Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Stray Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Chaos Witch Quelaag",
+                    "killed": false
+                },
+                {
+                    "name": "Great Grey Wolf Sif",
+                    "killed": false
+                },
+                {
+                    "name": "Iron Golem",
+                    "killed": false
+                },
+                {
+                    "name": "Crossbreed Priscilla",
+                    "killed": false
+                },
+                {
+                    "name": "Ornstein and Smough",
+                    "killed": false
+                },
+                {
+                    "name": "Dark Sun Gwyndolin",
+                    "killed": false
+                },
+                {
+                    "name": "Pinwheel",
+                    "killed": false
+                },
+                {
+                    "name": "Gravelord Nito",
+                    "killed": false
+                },
+                {
+                    "name": "Seath the Scaleless",
+                    "killed": false
+                },
+                {
+                    "name": "The Four Kings",
+                    "killed": false
+                },
+                {
+                    "name": "Ceaseless Discharge",
+                    "killed": false
+                },
+                {
+                    "name": "Centipede Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Firesage Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Bed of Chaos",
+                    "killed": false
+                },
+                {
+                    "name": "Gwyn, Lord of Cinder",
+                    "killed": false
+                },
+                {
+                    "name": "Sanctuary Guardian",
+                    "killed": false
+                },
+                {
+                    "name": "Artorias the Abysswalker",
+                    "killed": false
+                },
+                {
+                    "name": "Black Dragon Kalameet",
+                    "killed": false
+                },
+                {
+                    "name": "Manus, Father of the Abyss",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Dark Souls II",
+            "bosses": [
+                {
+                    "name": "The Last Giant",
+                    "killed": false
+                },
+                {
+                    "name": "The Pursuer",
+                    "killed": false
+                },
+                {
+                    "name": "Executioner's Chariot",
+                    "killed": false
+                },
+                {
+                    "name": "Looking Glass Knight",
+                    "killed": false
+                },
+                {
+                    "name": "The Skeleton Lords",
+                    "killed": false
+                },
+                {
+                    "name": "Flexile Sentry",
+                    "killed": false
+                },
+                {
+                    "name": "Lost Sinner",
+                    "killed": false
+                },
+                {
+                    "name": "Belfry Gargoyles",
+                    "killed": false
+                },
+                {
+                    "name": "Ruin Sentinel",
+                    "killed": false
+                },
+                {
+                    "name": "Royal Rat Vanguard",
+                    "killed": false
+                },
+                {
+                    "name": "Royal Rat Authority",
+                    "killed": false
+                },
+                {
+                    "name": "Scorpioness Najka",
+                    "killed": false
+                },
+                {
+                    "name": "The Duke's Dear Freja",
+                    "killed": false
+                },
+                {
+                    "name": "Mytha the Baneful Queen",
+                    "killed": false
+                },
+                {
+                    "name": "Old Dragonslayer",
+                    "killed": false
+                },
+                {
+                    "name": "Covetous Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Smelter Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Old Iron King",
+                    "killed": false
+                },
+                {
+                    "name": "Guardian Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Demon of Song",
+                    "killed": false
+                },
+                {
+                    "name": "Velstadt, the Royal Aegis",
+                    "killed": false
+                },
+                {
+                    "name": "Vendrick",
+                    "killed": false
+                },
+                {
+                    "name": "Darklurker",
+                    "killed": false
+                },
+                {
+                    "name": "Dargonrider",
+                    "killed": false
+                },
+                {
+                    "name": "Twin Dragonrider",
+                    "killed": false
+                },
+                {
+                    "name": "Prowling Magus and Congregation",
+                    "killed": false
+                },
+                {
+                    "name": "Giant Lord",
+                    "killed": false
+                },
+                {
+                    "name": "Ancient Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Throne Watcher and Throne Defender",
+                    "killed": false
+                },
+                {
+                    "name": "Nashandra",
+                    "killed": false
+                },
+                {
+                    "name": "Aldia, Scholar of the First Sin",
+                    "killed": false
+                },
+                {
+                    "name": "Elana, Squalid Queen",
+                    "killed": false
+                },
+                {
+                    "name": "Sinh, the Slumbering Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Graverobber, Varg, and Cerah",
+                    "killed": false
+                },
+                {
+                    "name": "Smelter Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Fume Knight",
+                    "killed": false
+                },
+                {
+                    "name": "Sir Alonne",
+                    "killed": false
+                },
+                {
+                    "name": "Burn Ivory King",
+                    "killed": false
+                },
+                {
+                    "name": "Aava, the King's Pet",
+                    "killed": false
+                },
+                {
+                    "name": "Lud and Zallen, the King's Pets",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Dark Souls III",
+            "bosses": [
+                {
+                    "name": "Iudex Gundyr",
+                    "killed": false
+                },
+                {
+                    "name": "Vordt of the Boreal Valley",
+                    "killed": false
+                },
+                {
+                    "name": "Curse-Rotted Greatwood",
+                    "killed": false
+                },
+                {
+                    "name": "Crystal Sage",
+                    "killed": false
+                },
+                {
+                    "name": "Abyss Watchers",
+                    "killed": false
+                },
+                {
+                    "name": "Deacons of the Deep",
+                    "killed": false
+                },
+                {
+                    "name": "High Lord Wolnir",
+                    "killed": false
+                },
+                {
+                    "name": "Old Demon King",
+                    "killed": false
+                },
+                {
+                    "name": "Pontiff Sulyvahn",
+                    "killed": false
+                },
+                {
+                    "name": "Yhorm the Giant",
+                    "killed": false
+                },
+                {
+                    "name": "Aldrich, Devourer of Gods",
+                    "killed": false
+                },
+                {
+                    "name": "Dancer of the Boreal Valley",
+                    "killed": false
+                },
+                {
+                    "name": "Dragonslayer Armour",
+                    "killed": false
+                },
+                {
+                    "name": "Oceiros, the Consumed King",
+                    "killed": false
+                },
+                {
+                    "name": "Champion Gundyr",
+                    "killed": false
+                },
+                {
+                    "name": "Lothric, Younger Prince",
+                    "killed": false
+                },
+                {
+                    "name": "Ancient Wyyvern",
+                    "killed": false
+                },
+                {
+                    "name": "Nameless King",
+                    "killed": false
+                },
+                {
+                    "name": "Soul of Cinder",
+                    "killed": false
+                },
+                {
+                    "name": "Sister Friede",
+                    "killed": false
+                },
+                {
+                    "name": "Champion's Gravetender & Gravetender Greatwolf",
+                    "killed": false
+                },
+                {
+                    "name": "Demon in Pain & Demon From Below / Demon Prince",
+                    "killed": false
+                },
+                {
+                    "name": "Halflight, Spear of the Church",
+                    "killed": false
+                },
+                {
+                    "name": "Darkeater Midir",
+                    "killed": false
+                },
+                {
+                    "name": "Slave Knight Gael",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Bloodborne",
+            "bosses": [
+                {
+                    "name": "Cleric Beast",
+                    "killed": false
+                },
+                {
+                    "name": "Father Gascoigne",
+                    "killed": false
+                },
+                {
+                    "name": "Vicar Amelia",
+                    "killed": false
+                },
+                {
+                    "name": "Blood-Starved Beast",
+                    "killed": false
+                },
+                {
+                    "name": "The Witch of Hemwick",
+                    "killed": false
+                },
+                {
+                    "name": "Darkbeast Paarl",
+                    "killed": false
+                },
+                {
+                    "name": "Shadow of Yharnam",
+                    "killed": false
+                },
+                {
+                    "name": "Rom The Vacuous Spider",
+                    "killed": false
+                },
+                {
+                    "name": "The One Reborn",
+                    "killed": false
+                },
+                {
+                    "name": "Martyr Logarius",
+                    "killed": false
+                },
+                {
+                    "name": "Amygdala",
+                    "killed": false
+                },
+                {
+                    "name": "Celestial Emissary",
+                    "killed": false
+                },
+                {
+                    "name": "Ebrietas, Daughter of the Cosmos",
+                    "killed": false
+                },
+                {
+                    "name": "Micolash, Host of the Nightmare",
+                    "killed": false
+                },
+                {
+                    "name": "Mergo's Wet Nurse",
+                    "killed": false
+                },
+                {
+                    "name": "Gehrman, the First Hunter",
+                    "killed": false
+                },
+                {
+                    "name": "Moon Presence",
+                    "killed": false
+                },
+                {
+                    "name": "Ludwig the Accursed/Holy Blade",
+                    "killed": false
+                },
+                {
+                    "name": "Laurence, the First Vicar",
+                    "killed": false
+                },
+                {
+                    "name": "Living Failures",
+                    "killed": false
+                },
+                {
+                    "name": "Lady Maria of the Astral Clocktower",
+                    "killed": false
+                },
+                {
+                    "name": "Orphan of Kos",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Sekiro",
+            "bosses": [
+                {
+                    "name": "Gyoubu Oniwa",
+                    "killed": false
+                },
+                {
+                    "name": "Lady Butterfly",
+                    "killed": false
+                },
+                {
+                    "name": "Genichiro Ashina",
+                    "killed": false
+                },
+                {
+                    "name": "Guardian Ape",
+                    "killed": false
+                },
+                {
+                    "name": "Folding Screen Monkeys",
+                    "killed": false
+                },
+                {
+                    "name": "Headless Ape",
+                    "killed": false
+                },
+                {
+                    "name": "Corrupted Monk",
+                    "killed": false
+                },
+                {
+                    "name": "Great Shinobi - Owl",
+                    "killed": false
+                },
+                {
+                    "name": "Corrupted Monk - True Monk",
+                    "killed": false
+                },
+                {
+                    "name": "Divine Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Demon of Hatred",
+                    "killed": false
+                },
+                {
+                    "name": "Isshin, the Sword Saint",
+                    "killed": false
+                },
+                {
+                    "name": "Emma, the Gentle Blade",
+                    "killed": false
+                },
+                {
+                    "name": "Isshin Ashina",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Demon Souls",
+            "bosses": [
+                {
+                    "name": "Adjudicator",
+                    "killed": false
+                },
+                {
+                    "name": "Armor Spider",
+                    "killed": false
+                },
+                {
+                    "name": "Blue Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Dirty Colossus",
+                    "killed": false
+                },
+                {
+                    "name": "Dragon God",
+                    "killed": false
+                },
+                {
+                    "name": "Flamelurker",
+                    "killed": false
+                },
+                {
+                    "name": "Fool's Idol",
+                    "killed": false
+                },
+                {
+                    "name": "King Allant",
+                    "killed": false
+                },
+                {
+                    "name": "Leechmonger",
+                    "killed": false
+                },
+                {
+                    "name": "Maneater",
+                    "killed": false
+                },
+                {
+                    "name": "Maiden Astraea",
+                    "killed": false
+                },
+                {
+                    "name": "Maiden in Black",
+                    "killed": false
+                },
+                {
+                    "name": "Old Hero",
+                    "killed": false
+                },
+                {
+                    "name": "Old King Allant",
+                    "killed": false
+                },
+                {
+                    "name": "Old Monk",
+                    "killed": false
+                },
+                {
+                    "name": "Penetrator",
+                    "killed": false
+                },
+                {
+                    "name": "Phalanx",
+                    "killed": false
+                },
+                {
+                    "name": "Primeval Demon",
+                    "killed": false
+                },
+                {
+                    "name": "Red Dragon",
+                    "killed": false
+                },
+                {
+                    "name": "Storm King",
+                    "killed": false
+                },
+                {
+                    "name": "Tower Knight",
+                    "killed": false
+                },
+                {
+                    "name": "Vanguard",
+                    "killed": false
+                }
+            ]
+        },
+        {
+            "title": "Elden Ring",
+            "bosses": [
+                {
+                    "name": "Ancient Hero of Zamor (Weeping Evergaol)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Beastman of Farum Azula",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Bell Bearing Hunter",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Black Knife Assassin",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Bloodhound Knight Darriwil",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Cemetery Shade",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Crucible Knight",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Deathbird (Limgrave)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Deathbird (Weeping Peninsula)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Demi-Human Chief",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Avatar",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Burial Watchdog (Stormfoot Catacombs)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Burial Watchdog (Impaler's Catacombs)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Flying Dragon Agheel",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Godrick the Grafted",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Grafted Scion",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Grave Warden Duelist (Murkwater Catacombs)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Guardian Golem",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Leonine Misbegotten",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Mad Pumpkin Head",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Margit, the Fell Omen",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Miranda the Blighted Bloom",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Limgrave)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Weeping Peninsula)",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Patches",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Runebear",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Scaly Misbegotten",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Soldier of Godrick",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Stonedigger Troll",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Tibia Mariner",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Tree Sentinel",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Ulcerated Tree Spirit",
+                    "region": "Limgrave",
+                    "killed": false
+                },
+                {
+                    "name": "Adan, Thief of Fire",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Alecto, Black Knife Ringleader",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Bell Bearing Hunter",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Black Knife Assassin",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Bloodhound Knight",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Bols, Carian Knight",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Cemetery Shade",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Cleanrot Knight",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Crystalian (Spear) & Crystalian (Staff) (Academy Crystal Cave)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Crystalian (Raya Lucaria Crystal Tunnel)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Death Rite Bird",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Deathbird (Liurnia of the Lakes)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Avatar (Northeast)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Avatar (Southwest)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Burial Watchdog (Cliffbottom Catacombs)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Glintstone Dragon Adula",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Glintstone Dragon Smarag",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Magma Wyrm Makar",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Liurnia North)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Liurnia South)",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Omenkiller",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Onyx Lord",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Red Wolf of Radagon",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Rennala, Queen of the Full Moon",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Royal Knight Loretta",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Royal Revenant",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Spirit-Caller Snail",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Tibia Mariner",
+                    "region": "Liurnia of the Lakes",
+                    "killed": false
+                },
+                {
+                    "name": "Battlemage Hugues",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Beastman of Farum Azula",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Bell Bearing Hunter",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Black Blade Kindred",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Cemetery Shade",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Cleanrot Knight",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Commander O'Neil",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Crucible Knight & Misbegotten Warrior",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Death Rite Bird",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Decaying Ekzykes",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Elder Dragon Greyoll",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Burial Watchdog (Minor Erdtree Catacombs)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Fallingstar Beast",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Flying Dragon Greyll",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Frenzied Duelist",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Godskin Apostle",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Mad Pumpkin Head (Duo)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Magma Wyrm",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Caelid Highway South)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Dragonbarrow East)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Nox Swordstress & Nox Priest",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Avatar (West Caelid)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Avatar (East Caelid)",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Tree Spirit",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Crystalian Trio",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Starscourge Radahn",
+                    "region": "Caelid",
+                    "killed": false
+                },
+                {
+                    "name": "Ancient Hero of Zamor (Sainted Hero's Grave)",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Ancient Dragon Lansseax",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Black Knife Assassin (Sage's Cave)",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Black Knife Assassin (Sainted Hero's Grave)",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Crystalian Spear & Crystalian Ringblade",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Demi-Human Queen Gilika",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Elemer of the Briar",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Fallingstar Beast",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Godefroy The Grafted",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Godskin Apostle",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Necromancer Garris",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Altus Plateau)",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Omenkiller & Miranda the Blighted Bloom",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Perfumer Tricia & Misbegotten Warrior",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Sanguine Noble",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Stonedigger Troll",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Tibia Mariner",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Tree Sentinel Duo",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Wormface",
+                    "region": "Altus Plateau",
+                    "killed": false
+                },
+                {
+                    "name": "Abductor Virgins",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Demi-Human Queen Margot",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Demi-Human Queen Maggie",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Burial Watchdog (Wyndham Catacombs)",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Full-Grown Fallingstar Beast",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Godskin Noble",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Kindred of Rot",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Magma Wyrm",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Ulcerated Tree Spirit",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "God-Devouring Serpent / Rykard, Lord of Blasphemy",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Red Wolf of the Champion",
+                    "region": "Mt. Gelmir",
+                    "killed": false
+                },
+                {
+                    "name": "Bell Bearing Hunter",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Crucible Knight & Crucible Knight Ordovis",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Deathbird (Capital Outskirts)",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Draconic Tree Sentinel",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Esgar, Priest of Blood",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Fell Twins",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Grave Warden Duelist (Auriza Side Tomb)",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Godfrey, First Elden Lord (Golden Shade)",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Morgott, the Omen King",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Mohg, The Omen",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Onyx Lord",
+                    "region": "Leyndell, Royal Capital",
+                    "killed": false
+                },
+                {
+                    "name": "Ancient Hero of Zamor (Giant-Conquering Hero's Grave)",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Borealis the Freezing Fog",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Commander Niall",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Death Rite Bird",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Erdtree Avatar",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Fire Giant",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Godskin Apostle and Godskin Noble",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Roundtable Knight Vyke",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Tibia Mariner (Snow Valley Ruins Overlook)",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Ulcerated Tree Spirit (Giants' Mountaintop Catacombs)",
+                    "region": "Mountaintops of the Giants",
+                    "killed": false
+                },
+                {
+                    "name": "Ancestor Spirit",
+                    "region": "Siofra River",
+                    "killed": false
+                },
+                {
+                    "name": "Dragonkin Soldier",
+                    "region": "Siofra River",
+                    "killed": false
+                },
+                {
+                    "name": "Mohg, Lord of Blood",
+                    "region": "Siofra River",
+                    "killed": false
+                },
+                {
+                    "name": "Dragonkin Soldier of Nokstella",
+                    "region": "Ainsel River",
+                    "killed": false
+                },
+                {
+                    "name": "Beast Clergyman / Maliketh, the Black Blade",
+                    "region": "Crumbling Farum Azula",
+                    "killed": false
+                },
+                {
+                    "name": "Dragonlord Placidusax",
+                    "region": "Crumbling Farum Azula",
+                    "killed": false
+                },
+                {
+                    "name": "Godskin Duo",
+                    "region": "Crumbling Farum Azula",
+                    "killed": false
+                },
+                {
+                    "name": "Black Blade Kindred",
+                    "region": "Forbidden Lands",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Forbidden Lands)",
+                    "region": "Forbidden Lands",
+                    "killed": false
+                },
+                {
+                    "name": "Mimic Tear",
+                    "region": "Nokron, Eternal City",
+                    "killed": false
+                },
+                {
+                    "name": "Regal Ancestor Spirit",
+                    "region": "Nokron, Eternal City",
+                    "killed": false
+                },
+                {
+                    "name": "Valiant Gargoyle & Valiant Gargoyle (Twinblade)",
+                    "region": "Nokron, Eternal City",
+                    "killed": false
+                },
+                {
+                    "name": "Crucible Knight Siluria",
+                    "region": "Deeproot Depths",
+                    "killed": false
+                },
+                {
+                    "name": "Fia's Champions",
+                    "region": "Deeproot Depths",
+                    "killed": false
+                },
+                {
+                    "name": "Lichdragon Fortissax",
+                    "region": "Deeproot Depths",
+                    "killed": false
+                },
+                {
+                    "name": "Astel, Naturalborn of the Void",
+                    "region": "Lake of Rot",
+                    "killed": false
+                },
+                {
+                    "name": "Dragonkin Soldier",
+                    "region": "Lake of Rot",
+                    "killed": false
+                },
+                {
+                    "name": "Death Rite Bird",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Great Wyrm Theodorix",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Loretta, Knight of the Haligtree",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Malenia, Blade of Miquella",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Misbegotten Crusader",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Night's Cavalry (Duo)",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Avatar (Consecrated Snowfield)",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Putrid Grave Warden Duelist",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Stray Mimic Tear",
+                    "region": "Consecrated Snowfield",
+                    "killed": false
+                },
+                {
+                    "name": "Godfrey, First Elden Lord (Hoarah Loux)",
+                    "region": "Leyndell, Capital of Ash",
+                    "killed": false
+                },
+                {
+                    "name": "Sir Gideon Ofnir, the All-Knowing",
+                    "region": "Leyndell, Capital of Ash",
+                    "killed": false
+                },
+                {
+                    "name": "Radagon of the Golden Order / Elden Beast",
+                    "region": "Elden Throne",
+                    "killed": false
+                }
+            ]
+        }
+    ]
+}
