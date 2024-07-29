@@ -1,5 +1,5 @@
 export interface Boss {
-    id?: number;
+    id: number;
     name: string;
     region?: string;
     killed: boolean;

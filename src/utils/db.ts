@@ -18,5 +18,19 @@ export class SoulsDB extends Dexie {
 
 export const db = new SoulsDB();
 
-
 db.on("populate", populateDb)
+
+export const getGamesWithBosses = async () => {
+    const games = await db.games.toArray()
+
+    return Promise.all(
+        games.map(async (game) => {
+            const gameBosses = await db.bosses.where('gameId').equals(game.id).toArray()
+
+            return {
+                ...game,
+                bosses: gameBosses,
+            }
+        })
+    )
+}
