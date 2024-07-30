@@ -9,7 +9,6 @@ import { BossList } from "./BossList";
 
 export const GameTabs = () => {
     const games = useLiveQuery(getGamesWithBosses);
-    const colors = ["warning"];
 
     if (!games) return <></>;
 

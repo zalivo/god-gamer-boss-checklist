@@ -30,7 +30,7 @@ export const ChangeButtons = () => {
     if (!games) return <></>;
 
     return (
-        <div className="flex flex-row w-full gap-3 ax-w-xl lg:max-w-3xl">
+        <div className="flex flex-row w-full gap-3 max-w-xl lg:max-w-3xl">
             <Select
                 label="Select game"
                 placeholder="Select game"
