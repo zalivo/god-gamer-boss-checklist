@@ -1,7 +1,7 @@
 import React from "react";
 import { Checkbox } from "@nextui-org/checkbox";
 
-import { Boss, Game } from "@/utils/models";
+import { Boss } from "@/utils/models";
 import { db } from "@/utils/db";
 
 interface Props {

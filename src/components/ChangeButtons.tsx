@@ -1,7 +1,7 @@
 import React from "react";
 import { useLiveQuery } from "dexie-react-hooks";
-import { Select, SelectSection, SelectItem } from "@nextui-org/select";
-import { Button, ButtonGroup } from "@nextui-org/button";
+import { Select, SelectItem } from "@nextui-org/select";
+import { Button } from "@nextui-org/button";
 import { PressEvent } from "@react-types/shared";
 
 import { db, getGamesWithBosses } from "@/utils/db";
