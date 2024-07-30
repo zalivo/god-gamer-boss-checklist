@@ -4,16 +4,18 @@ import { Tabs, Tab } from "@nextui-org/tabs";
 import { useLiveQuery } from "dexie-react-hooks";
 
 import { db, getGamesWithBosses } from "@/utils/db";
+
 import { BossList } from "./BossList";
 
 export const GameTabs = () => {
     const games = useLiveQuery(getGamesWithBosses);
+    const colors = ["warning"];
 
     if (!games) return <></>;
 
     return (
-        <div className="flex w-full flex-col">
-            <Tabs aria-label="Dynamic tabs" items={games}>
+        <div className="flex w-full flex-col py-8 max-w-2xl md:max-w-3xl">
+            <Tabs aria-label="Dynamic tabs" items={games} color="warning">
                 {(game) => (
                     <Tab key={game.id} title={game.title}>
                         <Card>

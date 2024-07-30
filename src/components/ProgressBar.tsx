@@ -14,7 +14,7 @@ export const ProgressBar = () => {
     return (
         <Progress
             classNames={{
-                base: "max-w-md",
+                base: "max-w-xl lg:max-w-3xl",
                 track: "drop-shadow-md border border-default",
                 indicator: "bg-gradient-to-r from-pink-500 to-yellow-500",
                 label: "tracking-wider font-medium text-default-600",

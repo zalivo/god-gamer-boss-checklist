@@ -12,7 +12,11 @@ export const BossList = ({ bosses }: Props) => {
         <>
             {bosses.map((boss) => {
                 return (
-                    <Checkbox key={`boss-${boss.id}`} lineThrough>
+                    <Checkbox
+                        key={`boss-${boss.id}`}
+                        lineThrough
+                        color="success"
+                    >
                         {boss.name}
                     </Checkbox>
                 );

@@ -17,7 +17,7 @@ export const GameList = () => {
 
                 return (
                     <div
-                        className="flex flex-row max-w-lg w-full justify-between gap-3 py-5 border-solid border-b border-white"
+                        className="flex flex-row max-w-xl lg:max-w-3xl w-full justify-between py-5 border-solid border-b border-white"
                         key={`game-list-${game.id}`}
                     >
                         <span className="text-5xl">{game.title}</span>
