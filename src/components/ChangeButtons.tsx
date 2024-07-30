@@ -43,7 +43,11 @@ export const ChangeButtons = () => {
                     <SelectItem key={game.id}>{game.title}</SelectItem>
                 ))}
             </Select>
-            <Button color="warning" onPress={onPress}>
+            <Button
+                className="place-self-end"
+                color="warning"
+                onPress={onPress}
+            >
                 Reset
             </Button>
         </div>
