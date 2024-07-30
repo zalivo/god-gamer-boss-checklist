@@ -1,4 +1,4 @@
-'use client'
+"use client";
 
 import { useLiveQuery } from "dexie-react-hooks";
 import React from "react";
@@ -7,11 +7,9 @@ import { Progress } from "@nextui-org/progress";
 import { db } from "@/utils/db";
 
 export const ProgressBar = () => {
-    const bosses = useLiveQuery(
-        () => db.bosses.toArray()
-    )
+    const bosses = useLiveQuery(() => db.bosses.toArray());
 
-    console.log(bosses)
+    console.log(bosses);
 
     return (
         <Progress
@@ -22,10 +20,11 @@ export const ProgressBar = () => {
                 label: "tracking-wider font-medium text-default-600",
                 value: "text-foreground/60",
             }}
-            label="Lose weight"
+            label="Boss progress"
+            color="warning"
             radius="sm"
             showValueLabel={true}
-            size="sm"
+            size="md"
             value={65}
         />
     );

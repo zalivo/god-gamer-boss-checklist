@@ -1,7 +1,7 @@
 export type SiteConfig = typeof siteConfig;
 
 export const siteConfig = {
-    name: "aaaaaaaaaa",
+    name: "God Gamer Boss Checklist",
     description: "Maaaaaa.",
     links: {
         github: "https://github.com/",
