@@ -1,10 +1,11 @@
 import { Transaction } from "dexie";
 
 import {
-    Bloodborne,
     DarkSoulsI,
     DarkSoulsII,
     DarkSoulsIII,
+    Bloodborne,
+    Sekiro,
     DemonSouls,
     EldenRing,
 } from "@/data/bosses";
@@ -16,6 +17,7 @@ export const populateDb = (transaction: Transaction) => {
         DarkSoulsII,
         DarkSoulsIII,
         Bloodborne,
+        Sekiro,
         DemonSouls,
         EldenRing,
     ];
