@@ -13,7 +13,7 @@ export const BossList = ({ bosses }: Props) => {
         <>
             {bosses.map((boss) => {
                 const onValueChange = (isSelected: boolean) => {
-                    db.bosses.update(boss.id, { killed: isSelected });
+                    db.bosses.update(boss.id!, { killed: isSelected });
                 };
 
                 return (

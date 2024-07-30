@@ -1,4 +1,4 @@
-import { GameData as Game } from "@/utils/models";
+import { Game } from "@/utils/models";
 
 export const DarkSoulsIII: Game = {
     title: "Dark Souls III",

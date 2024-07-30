@@ -1,4 +1,4 @@
-import { GameData as Game } from "@/utils/models";
+import { Game } from "@/utils/models";
 
 export const Sekiro: Game = {
     title: "Sekiro",

@@ -9,10 +9,19 @@ import {
     DemonSouls,
     EldenRing,
 } from "@/data/bosses";
-import { GameData as Game } from "@/utils/models";
+import { Game } from "@/utils/models";
 
-export const populateDb = (transaction: Transaction) => {
-    const data: Array<Game> = [
+const populateGame = async (transaction: Transaction, game: Game) => {
+    const id: number = await transaction.table("games").add(game);
+    const bosses = game.bosses.map((boss) => ({
+        ...boss,
+        gameId: id
+    }))
+    await transaction.table("bosses").bulkAdd(bosses);
+}
+
+export const onPopulate = (transaction: Transaction) => {
+    const games: Array<Game> = [
         DarkSoulsI,
         DarkSoulsII,
         DarkSoulsIII,
@@ -21,36 +30,7 @@ export const populateDb = (transaction: Transaction) => {
         DemonSouls,
         EldenRing,
     ];
-    let i = 1,
-        j = 1;
-
-    for (const g of data) {
-        const bosses = [];
-        const bossIds: Array<number> = [];
-
-        for (const b of g.bosses) {
-            const boss = {
-                id: j,
-                name: b.name,
-                region: b.region,
-                killed: b.killed,
-                gameId: i,
-            };
-
-            bossIds.push(j);
-            bosses.push(boss);
-            j++;
-        }
-
-        const game = {
-            id: i,
-            title: g.title,
-            bossIds: bossIds,
-        };
-
-        transaction.table("games").add(game);
-        transaction.table("bosses").bulkAdd(bosses);
-
-        i++;
+    for (const game of games) {
+        populateGame(transaction, game);
     }
 };
