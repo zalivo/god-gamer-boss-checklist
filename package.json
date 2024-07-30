@@ -9,7 +9,7 @@
         "lint": "next lint --fix"
     },
     "dependencies": {
-        "@nextui-org/button": "2.0.34",
+        "@nextui-org/button": "^2.0.34",
         "@nextui-org/card": "^2.0.31",
         "@nextui-org/checkbox": "^2.1.4",
         "@nextui-org/code": "2.0.29",
@@ -19,6 +19,7 @@
         "@nextui-org/listbox": "2.1.21",
         "@nextui-org/navbar": "2.0.33",
         "@nextui-org/progress": "^2.0.31",
+        "@nextui-org/select": "^2.2.5",
         "@nextui-org/snippet": "2.0.38",
         "@nextui-org/switch": "2.0.31",
         "@nextui-org/system": "2.2.1",
@@ -26,6 +27,7 @@
         "@nextui-org/theme": "2.2.5",
         "@react-aria/ssr": "3.9.4",
         "@react-aria/visually-hidden": "3.8.12",
+        "@react-types/shared": "^3.24.1",
         "clsx": "2.1.1",
         "dexie": "^4.0.7",
         "dexie-react-hooks": "^1.1.7",

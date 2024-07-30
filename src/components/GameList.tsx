@@ -21,7 +21,7 @@ export const GameList = () => {
                         key={`game-list-${game.id}`}
                     >
                         <span className="text-5xl">{game.title}</span>
-                        <span>
+                        <span className="place-self-end text-md">
                             {killed} / {total}
                         </span>
                     </div>

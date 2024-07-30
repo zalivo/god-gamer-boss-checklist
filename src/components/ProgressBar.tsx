@@ -9,7 +9,10 @@ import { db } from "@/utils/db";
 export const ProgressBar = () => {
     const bosses = useLiveQuery(() => db.bosses.toArray());
 
-    console.log(bosses);
+    if (!bosses) return <></>;
+
+    const total = bosses.length;
+    const killed = bosses.filter((boss) => boss.killed).length;
 
     return (
         <Progress
@@ -25,7 +28,7 @@ export const ProgressBar = () => {
             radius="sm"
             showValueLabel={true}
             size="md"
-            value={65}
+            value={(killed / total) * 100}
         />
     );
 };
