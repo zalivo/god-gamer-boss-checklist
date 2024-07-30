@@ -1,4 +1,4 @@
-import { Game } from "@/utils/models";
+import { GameData as Game } from "@/utils/models";
 
 export const Bloodborne: Game = {
     title: "Bloodborne",

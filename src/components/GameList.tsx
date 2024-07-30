@@ -1,7 +1,7 @@
 import React from "react";
 import { useLiveQuery } from "dexie-react-hooks";
 
-import { db, getGamesWithBosses } from "@/utils/db";
+import { getGamesWithBosses } from "@/utils/db";
 
 export const GameList = () => {
     const games = useLiveQuery(getGamesWithBosses);

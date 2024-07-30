@@ -8,7 +8,7 @@ import {
     DemonSouls,
     EldenRing,
 } from "@/data/bosses";
-import { Game } from "@/utils/models";
+import { GameData as Game } from "@/utils/models";
 
 export const populateDb = (transaction: Transaction) => {
     const data: Array<Game> = [
