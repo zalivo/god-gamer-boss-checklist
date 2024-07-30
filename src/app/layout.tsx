@@ -43,7 +43,7 @@ export default function RootLayout({
                     themeProps={{ attribute: "class", defaultTheme: "dark" }}
                 >
                     <div className="relative flex flex-col h-screen">
-                        <main className="bg-[#161a1d] container mx-auto max-w-7xl pt-16 px-6 flex-grow">
+                        <main className="container mx-auto max-w-7xl pt-16 px-6 flex-grow">
                             {children}
                         </main>
                         <footer className="w-full flex items-center justify-center py-3" />
