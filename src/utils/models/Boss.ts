@@ -1,9 +1,6 @@
-export interface BossData {
+export interface Boss {
+    id?: number;
     name: string;
     region?: string;
     killed: boolean;
-}
-
-export interface Boss extends BossData {
-    id: number
 }

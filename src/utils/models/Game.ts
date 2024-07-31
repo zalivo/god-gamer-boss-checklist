@@ -1,10 +1,7 @@
-import { Boss, BossData } from "@/utils/models";
+import { Boss } from "@/utils/models";
 
-export interface GameData {
+export interface Game {
+    id?: number;
     title: string;
-    bosses: Array<Boss | BossData>;
-}
-
-export interface Game extends GameData {
-    id: number;
+    bosses: Array<Boss>;
 }

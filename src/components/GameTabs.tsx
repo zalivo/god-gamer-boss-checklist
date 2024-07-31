@@ -3,7 +3,7 @@ import { Card, CardBody } from "@nextui-org/card";
 import { Tabs, Tab } from "@nextui-org/tabs";
 import { useLiveQuery } from "dexie-react-hooks";
 
-import { getGamesWithBosses } from "@/utils/db";
+import { getGamesWithBosses } from "@/utils/query";
 
 import { BossList } from "./BossList";
 

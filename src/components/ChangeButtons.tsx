@@ -4,7 +4,8 @@ import { Select, SelectItem } from "@nextui-org/select";
 import { Button } from "@nextui-org/button";
 import { PressEvent } from "@react-types/shared";
 
-import { db, getGamesWithBosses } from "@/utils/db";
+import { db } from "@/utils/db";
+import { getGamesWithBosses } from "@/utils/query";
 
 export const ChangeButtons = () => {
     const [value, setValue] = React.useState<Set<string>>(new Set([]));
@@ -18,7 +19,7 @@ export const ChangeButtons = () => {
             .and((boss) => boss.killed)
             .toArray();
         const bulkUpdate = bosses.map((boss) => ({
-            key: boss.id,
+            key: boss.id!,
             changes: {
                 killed: false,
             },
@@ -40,7 +41,7 @@ export const ChangeButtons = () => {
                 onSelectionChange={setValue}
             >
                 {games.map((game) => (
-                    <SelectItem key={game.id}>{game.title}</SelectItem>
+                    <SelectItem key={game.id!}>{game.title}</SelectItem>
                 ))}
             </Select>
             <Button

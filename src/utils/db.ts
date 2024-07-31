@@ -1,7 +1,7 @@
 import Dexie, { Table } from "dexie";
 
 import { Boss, Game } from "@/utils/models";
-import { populateDb } from "@/utils/populateDb";
+import { onPopulate } from "@/utils/populateDb";
 
 export class SoulsDB extends Dexie {
     games!: Table<Game, number>;
@@ -18,19 +18,4 @@ export class SoulsDB extends Dexie {
 
 export const db = new SoulsDB();
 
-db.on("populate", populateDb)
-
-export const getGamesWithBosses = async () => {
-    const games = await db.games.toArray()
-
-    return Promise.all(
-        games.map(async (game) => {
-            const gameBosses = await db.bosses.where('gameId').equals(game.id).toArray()
-
-            return {
-                ...game,
-                bosses: gameBosses,
-            }
-        })
-    )
-}
+db.on("populate", onPopulate)
